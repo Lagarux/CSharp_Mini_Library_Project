@@ -1,0 +1,30 @@
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.csproj.AssemblyReference.cache
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.csproj.SuggestedBindingRedirects.cache
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.Library.resources
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.Properties.Resources.resources
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.csproj.GenerateResource.cache
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.csproj.CoreCompileInputs.cache
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.exe.config
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.exe
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.pdb
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\Library Manager.exe
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\Library Manager.pdb
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.exe.manifest
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.application
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\Library Manager.exe.manifest
+C:\Users\ttt-g\Desktop\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\Library Manager.application
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.exe.config
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.exe.manifest
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.application
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.exe
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\bin\Debug\Library Manager.pdb
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.csproj.AssemblyReference.cache
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.csproj.SuggestedBindingRedirects.cache
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.Library.resources
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.Properties.Resources.resources
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.csproj.GenerateResource.cache
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\DatabaseCRUD_Sample.csproj.CoreCompileInputs.cache
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\Library Manager.exe.manifest
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\Library Manager.application
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\Library Manager.exe
+C:\Users\ttt-g\OneDrive\Masaüstü\WSTE\Visual_Studio\Asp.Net\DatabaseCRUD_Sample\DatabaseCRUD_Sample\obj\Debug\Library Manager.pdb
